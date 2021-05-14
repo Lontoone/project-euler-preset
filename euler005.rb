@@ -1,6 +1,6 @@
 class Array
     def get_lcm
-      self.reduce(1, :lcm)
+      self.reduce(1, :lcm) #TODO 詢問意思
     end
   end
   
@@ -15,4 +15,4 @@ def euler005
   
 end
 
-  euler005
+ euler005
